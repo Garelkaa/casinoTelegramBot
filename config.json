@@ -1,7 +1,7 @@
 [
     {
-        "bot_token": "7145105237:AAFfXNFUQaKm5p_P0PvkwySOe1KXJ2nFUGg",
-        "pay_token": "13200:AAz3utP6eB4q1ld4gvPI8i76A1MWiUrcZRH",
+        "bot_token": "",
+        "pay_token": "",
         "DB_USER": "postgres",
         "DB_PASSWORD": "1",
         "DB_HOST": "localhost",
